@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vue2-project
 vue2入门学习项目（饿了么商家页面）
 =======
@@ -23,4 +23,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> The first commit of vue2-project
