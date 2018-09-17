@@ -1,0 +1,20 @@
+body,html {
+	line-height: 1;
+	font-weight: 200;
+	font-family: 'PingFang SC', 'Microsoft YaHei','STHeitiSC-Light',arial,sans-ser;
+}
+.clearfix {
+	display: inline-block;
+}
+.clearfix::after {
+	display: block;
+	height: 0;
+	line-height: 0;
+	clear: both;
+	content: '.';
+	visibility: hidden;
+}
+
+.white {
+	background: #fff
+}
